@@ -1,0 +1,23 @@
+.scroll__container {
+  display: flex;
+  overflow-x: auto;
+}
+
+.skin__option {
+  padding: 1px; 
+  display: flex;
+  overflow-x: hidden;
+  overflow:auto;
+}
+
+​.img {
+    float:right;
+    height:auto;
+}​
+.intro {
+  margin: 10px;
+  outline: 1px solid #ccc;
+  background: #a00;
+  color: #fff;
+  height: auto;
+}

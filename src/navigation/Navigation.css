@@ -1,0 +1,25 @@
+.frame {
+  display: flex;
+  /* height: 100%; */
+  /* width: 100%; */
+  /* flex-direction: column;  */
+  /* padding: 20px;
+    margin: 10px; */
+  background-color: red;
+}
+
+.link {
+  /* margin: 50px;
+    background-color: aqua;
+    padding: 20px; */
+}
+.body {
+  flex-direction: column;
+  /* background-color: aqua; */
+}
+
+.deneme {
+  flex-direction: row;
+  /* background-color: aliceblue; */
+  /* display: flex; */
+}
