@@ -1,7 +1,7 @@
 
 #  This is a web app which users can vote up or down the bets and can see the other users choices after logged in the system. Also, there is an admin panel which can be dynamically added new bets.
 
-[DEMO](https://forecast-currency.vercel.app) (not supported for safari yet)
+# [DEMO](https://forecast-currency.vercel.app) (not supported for safari yet)
 
 ## Available Scripts
 In the project directory, you can run:
